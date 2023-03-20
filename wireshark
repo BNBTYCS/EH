@@ -1,4 +1,9 @@
 
+wireshark   >   capture   >
 
-for wireshark
+go to website-
 http://www.rrcpryj.org/
+
+enter random username and password  in "sign in" of this website > click sign in then-
+
+wireshark   >   filter    >    http.request.method=="POST"   >  right click(any 1)   >   follow TCP stream 
